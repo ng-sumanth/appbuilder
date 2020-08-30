@@ -6,15 +6,6 @@
         <name>Dashboard</name>
     </types>
     <types>
-        <members>Volunteer_Tracker_UtilityBar</members>
-        <members>Volunteering_Data</members>
-        <name>FlexiPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Flow</name>
-    </types>
-    <types>
         <members>Volunteer_Reports</members>
         <members>Volunteer_Reports/My_Shifts_Pending_Approval</members>
         <members>Volunteer_Reports/My_Top_Volunteer_Organizations</members>
